@@ -3,13 +3,13 @@
 ![golang-redis](https://www.restapiexample.com/wp-content/uploads/2018/06/golang-redis-databse-example.png)
 
 
-#### Acesse o diretorio redis que contem os arquivos do docker para o redis
+#### Acesse o diretório redis contendo os arquivos do docker para o redis
 
-Para criar efetuar o build do container
+Para efetue o build do container
 ```bash
 docker-compose build
 ```
- apos suba o container
+ após suba-o
 
 ```bash
 docker-compose up -d
